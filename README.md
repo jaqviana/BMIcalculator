@@ -9,20 +9,20 @@ BMICalculator was an app I developed to take my first steps with Android develop
 
 
 
-## Tecnologias
+## Tecnologies
 * Kotlin
-* Activity para host de telas
+* Activity to host screens
 * ViewGroup
     * RelativeLayout
     * LinearLayout
-- Components de UI
+- UI Components
     - TextView
     - EditText
     - Button
-- Toast para display de mensagens
-- Intent Explicita para abrir a segunda Activity
-- FindViewById para recuperar components de UI
-- String resource para concatenação de textos
+- Toast for message display
+- Explicit Intent to open the second Activity
+- FindViewById to retrieve UI components
+- String resource for text concatenation
 
 
 ### TO DO
